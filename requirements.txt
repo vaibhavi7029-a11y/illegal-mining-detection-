@@ -1,1 +1,14 @@
-
+numpy
+pandas
+opencv-python
+rasterio
+geopandas
+shapely
+scikit-learn
+matplotlib
+plotly
+folium
+streamlit
+streamlit-folium
+Pillow
+requests
