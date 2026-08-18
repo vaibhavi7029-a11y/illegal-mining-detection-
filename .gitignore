@@ -1,1 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
 
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Satellite data
+*.zip
+*.SAFE/
+*.tif
+*.tiff
+*.jp2
+
+# Large datasets
+data/raw/*
+data/processed/*
+
+# Secrets
+.env
+*.key
+
+# Model files
+models/*.pkl
+models/*.joblib
+models/*.h5
+models/*.pt
